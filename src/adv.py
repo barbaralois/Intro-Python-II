@@ -72,9 +72,6 @@ while True:
                 continue
     else:
         print(sys.argv)
-        # if command[0] == 'take':
-        #     print('take')
-        # elif command[0] == 'drop':
-        #     print('drop')
+
 
     
