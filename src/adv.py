@@ -71,7 +71,7 @@ while True:
                 print('\nYou try to move West, but find the path impassible.')
                 continue
     else:
-        print(sys.argv)
+        print('hello world')
 
 
     
